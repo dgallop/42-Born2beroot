@@ -64,3 +64,7 @@ Executes [monitoring.sh](https://github.com/dgallop/Born2beroot/blob/46a02b1c28d
 sudo crontab -u root -e
 */min * * * * bash file.sh
 ```
+
+My final score:
+
+<img src="https://badge42.herokuapp.com/api/project/dgallo-p/Born2beroot">
